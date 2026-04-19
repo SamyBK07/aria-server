@@ -1,0 +1,15 @@
+{
+  "name": "aria-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "web-push": "^3.6.6",
+    "node-cron": "^3.0.3",
+    "better-sqlite3": "^9.4.3",
+    "cors": "^2.8.5"
+  }
+}
